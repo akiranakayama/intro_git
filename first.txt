@@ -1,10 +1,11 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
 ・git add
-・git commit
+・git commit --amend
 ・git rm
 ・git status
 ・git diff
 ・git reset
 ・git checkout
 ・git clone
+・git restore
