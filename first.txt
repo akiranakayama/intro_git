@@ -9,3 +9,4 @@ Gitの練習をしていきます。
 ・git checkout
 ・git clone
 ・git restore
+・git pull
