@@ -10,3 +10,4 @@ Gitの練習をしていきます。
 ・git clone
 ・git restore
 ・git pull
+・git rebase (-i)
